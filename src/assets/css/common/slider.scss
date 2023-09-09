@@ -1,0 +1,15 @@
+.swiper {
+  max-width: 1440px;
+  margin: 0 auto;
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  .swiper-button-prev,
+  .swiper-button-next {
+    color: #fff;
+  }
+  .swiper-slide {
+    height: 640px;
+  }
+}
